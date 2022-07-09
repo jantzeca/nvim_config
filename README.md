@@ -1,5 +1,7 @@
 # A Basic Stable IDE config for Neovim
 
+Decoupled fork of https://github.com/LunarVim/nvim-basic-ide
+
 > Why does this repo exist?
 
 This config attempts to provide a rock solid fully featured starting point for someone new to Neovim, or just tired of maintaining the basic IDE components of their config. 
